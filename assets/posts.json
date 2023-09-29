@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Ejemplo 1",
+      "summary": "Resumen del ejemplo 1",
+      "text": "Texto completo del ejemplo 1",
+      "image": "./logo.png",
+      "links": [
+        {
+          "label": "Enlace 1",
+          "url": "https://www.leagueoflegends.com/es-mx/"
+        }
+      ]
+    },
+    {
+      "title": "Ejemplo 2",
+      "summary": "Resumen del ejemplo 2",
+      "text": "Texto completo del ejemplo 2",
+      "image": "./logo.png",
+      "links": [
+        {
+          "label": "lol sport",
+          "url": "https://lolesports.com/"
+        }
+      ]
+    }
+  ]
+  
